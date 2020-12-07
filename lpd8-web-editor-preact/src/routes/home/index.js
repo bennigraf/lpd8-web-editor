@@ -228,7 +228,6 @@ class Home extends Component {
 	}
 
 	channelUpdateHandler = data => {
-		console.log('got channel settings', data.channel);
 		this.lpd8SettingsToStore.channel = data.channel;
 	}
 
