@@ -1,0 +1,12 @@
+.condensedCard {
+    line-height: 1;
+    display: inline-block;
+}
+
+.limitedWidth {
+    width: 5rem;
+}
+
+.limitedWidthField {
+    flex-grow: 1;
+}

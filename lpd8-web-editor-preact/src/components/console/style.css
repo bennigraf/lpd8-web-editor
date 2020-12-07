@@ -1,0 +1,12 @@
+.console {
+	background: #333;
+    color: #fff;
+    /* max-height: 95vh; */
+    overflow-y: scroll;
+    
+}
+
+.console p {
+    border-bottom: 1px dotted #666;
+    white-space: pre-line;
+}
