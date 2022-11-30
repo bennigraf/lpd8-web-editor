@@ -281,7 +281,10 @@ class Home extends Component {
 				<div class="column content p-5">
 					<p>
 						Welcome to the LPD8 Web Midi Editor. Use this tool to change the MIDI
-						settings of your AKAI LPD8 controller – even on MacOS Catalina :-). 
+						settings of your AKAI LPD8 controller – even on MacOS Catalina :-). The 
+						code is publicly hosted at <a href="https://github.com/bennigraf/lpd8-web-editor">
+						https://github.com/bennigraf/lpd8-web-editor</a>. There you can also find a few 
+						details about the MIDI protocol used by the device.
 					</p>
 					<p>
 						<strong>Disclaimer:</strong> I am in no way affiliated with AKAI. This tool has been developed completely independently
